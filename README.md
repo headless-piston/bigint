@@ -1,2 +1,1 @@
-Replace the handwritten complex number class with `std::complex` from the C++ standard library.  
-Fix the initialization error issue.
+Updated FFT, now using preprocessed unit roots to improve precision, capable of compressing 4 digits, significantly enhancing efficiency.
